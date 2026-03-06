@@ -47,12 +47,12 @@ Columnas principales:
 | Costo de envío         | Costo de envío por producto         |
 | Fecha de Compra        | Fecha de la transacción             |
 | Vendedor               | Nombre del vendedor                 |
-| Lugar de Compra        | Ubicación de la tienda              |
-| Calificación           | Valoración del cliente (1-5)       |
+| Lugar de Compra        | Desde donde se realiza la compra    |
+| Calificación           | Valoración del cliente (0-5)        |
 | Método de pago         | Forma de pago utilizada             |
 | Cantidad de cuotas     | Número de cuotas pagadas            |
-| lat                    | Latitud de la tienda                |
-| lon                    | Longitud de la tienda               |
+| lat                    | Latitud lugar de compra             |
+| lon                    | Longitudlugar de compra             |
 
 Todos los datasets están completos y no presentan valores nulos.
 
