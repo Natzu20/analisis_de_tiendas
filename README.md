@@ -120,7 +120,7 @@ Se generaron gráficos para facilitar la interpretación de los resultados:
 <img width="630" height="399" alt="image" src="https://github.com/user-attachments/assets/03f597a2-7cac-44e2-9697-d2b240598121" />
 <img width="784" height="508" alt="image" src="https://github.com/user-attachments/assets/ac83c3f5-210d-4d9d-8172-28d5d5739d40" />
 <img width="1031" height="654" alt="image" src="https://github.com/user-attachments/assets/9ac49809-cb2e-4534-a548-4dba64ecb6ff" />
-<img width="1172" height="999" alt="image" src="https://github.com/user-attachments/assets/5bc9bbe7-d07c-4228-bca1-a53775ab7a22" />
+<img width="1031" height="654" alt="image" src="https://github.com/user-attachments/assets/5bc9bbe7-d07c-4228-bca1-a53775ab7a22" />
 <img width="639" height="394" alt="image" src="https://github.com/user-attachments/assets/101191af-b42c-43ea-a599-18b068ab18a9" />
 
 ---
