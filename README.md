@@ -90,16 +90,14 @@ La Tienda 4 genera los ingresos más bajos.
 - Tienda 3: 4.05  
 - Tienda 4: 4.00  
 
-La satisfacción de clientes es adecuada, aunque Tienda 4 presenta un desempeño ligeramente inferior.
+La satisfacción de clientes es adecuada, aunque Tienda 1 presenta un desempeño ligeramente inferior.
 
 ---
 
-### 4. Productos Menos Vendidos
-- Incluyen libros especializados, instrumentos musicales y electrodomésticos menos populares.  
-- Tienda 4 muestra dispersión en ventas de productos menos vendidos, reflejando una menor consistencia.
+### 4. Productos Más y Menos Vendidos
+- Incluyen libros especializados, instrumentos musicales y electrodomésticos menos populares.
 
 ---
-
 ### 5. Costo Promedio de Envío
 - Tienda 1: 26.018,61  
 - Tienda 2: 25.216,24  
@@ -117,8 +115,13 @@ Se generaron gráficos para facilitar la interpretación de los resultados:
 - Distribución de categorías: gráficos circulares por tienda  
 - Productos más y menos vendidos: gráficos comparativos de barras  
 - Calificación promedio y costo de envío: gráficos de línea  
-
-*(Se recomienda incluir los gráficos generados en la carpeta `images` y referenciarlos aquí para mejorar la presentación.)*
+<img width="705" height="461" alt="image" src="https://github.com/user-attachments/assets/562e365a-53de-4ebe-9546-eb740e4b8e29" />
+<img width="1028" height="665" alt="image" src="https://github.com/user-attachments/assets/6c3640de-a27e-4c69-bda4-6de5a28d495c" />
+<img width="630" height="399" alt="image" src="https://github.com/user-attachments/assets/03f597a2-7cac-44e2-9697-d2b240598121" />
+<img width="784" height="508" alt="image" src="https://github.com/user-attachments/assets/ac83c3f5-210d-4d9d-8172-28d5d5739d40" />
+<img width="1031" height="654" alt="image" src="https://github.com/user-attachments/assets/9ac49809-cb2e-4534-a548-4dba64ecb6ff" />
+<img width="1172" height="999" alt="image" src="https://github.com/user-attachments/assets/5bc9bbe7-d07c-4228-bca1-a53775ab7a22" />
+<img width="639" height="394" alt="image" src="https://github.com/user-attachments/assets/101191af-b42c-43ea-a599-18b068ab18a9" />
 
 ---
 
